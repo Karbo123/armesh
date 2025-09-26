@@ -1,0 +1,73 @@
+# model
+d_model: 512
+n_layers: 8
+num_cross_tokens: 16 # number of tokens for conditioning
+vocab_total: 16384
+
+
+
+
+# training
+lr_minmax: [1e-5, 1e-4]
+steps_warmup: 5_000
+steps_max: 50_000
+load_total_max: 20_000 # total length per gpu
+num_workers: 8
+prob_uncond: 0.5
+
+
+
+
+# routine
+test_every_epochs: 10 # test on the entire training set
+save_every_epochs: 4 # save model files
+
+
+
+
+# dataset
+folder_dataset: assets/obj100_out
+category: "lambda x: True"
+category_sft: "lambda x: True"
+checkpoint_folder: "checkpoint"
+out_folder: "gen-uncond"
+num_variants_per_shape: 4
+
+
+
+
+# during generation
+# this parameter is good for conditional generation
+k_p_t: [512, 0.95, 1.0] # top_k, top_p, temperature
+top_ratio_candidate: 0.001
+top_ratio_termination: 0.0000001
+max_splits: 2000 # set to a higher value if the shape has more vertices
+max_length: 50
+timeout: 180
+
+# idx_obj_lst: [0, 3, 7, 9, 15, 17, 19, 21, 23, 27, 31, 37, 47, 57]
+idx_obj_lst: "[None for _ in range(10)]" # randomly generate 10 objects
+# idx_obj_lst: [[0, 5, 0.5], [0, 5, 0.1], [0, 5, 0.9], [0, 5, 0.3], [0, 5, 0.7]]
+
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# no need to set up the followings
+
+# checkpoint path for resuming training
+resume: null
+
+
+# hydra must not produce "outputs" folder
+#   https://stackoverflow.com/questions/65104134/disable-file-output-of-hydra
+defaults:  
+  - _self_  
+  - override hydra/hydra_logging: disabled  
+  - override hydra/job_logging: disabled  
+hydra:  
+  output_subdir: null  
+  run:  
+    dir: .
+
+

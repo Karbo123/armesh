@@ -1,0 +1,2 @@
+# force all ".psc" files to use LF without replacing with CRLF
+*.psc text eol=lf

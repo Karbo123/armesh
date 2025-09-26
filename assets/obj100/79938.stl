@@ -1,0 +1,310 @@
+solid Exported from Blender-2.63 (sub 13)
+facet normal 0 0 0
+outer loop
+vertex 39.999996 52.499996 0.000000
+vertex 50.825314 46.249996 0.000000
+vertex 29.174679 46.249996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 46.249996 0.000000
+vertex 29.174679 33.749996 0.000000
+vertex 29.174679 46.249996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 46.249996 0.000000
+vertex 50.825314 33.749996 0.000000
+vertex 29.174679 33.749996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 33.749996 0.000000
+vertex 39.999996 27.499996 0.000000
+vertex 29.174679 33.749996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 29.472740 62.000000
+vertex 30.883125 34.736366 62.000000
+vertex 29.174679 33.749996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 33.749996 62.000000
+vertex 39.999996 27.499996 62.000000
+vertex 39.999996 29.472740 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 33.749996 62.000000
+vertex 29.174679 46.249996 62.000000
+vertex 29.174679 46.249996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 46.249996 0.000000
+vertex 29.174679 33.749996 0.000000
+vertex 29.174679 33.749996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 46.249996 62.000000
+vertex 50.825314 33.749996 62.000000
+vertex 50.825314 33.749996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 33.749996 0.000000
+vertex 50.825314 46.249996 0.000000
+vertex 50.825314 46.249996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 52.499996 0.000000
+vertex 29.174679 46.249996 0.000000
+vertex 29.174679 46.249996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 46.249996 62.000000
+vertex 39.999996 52.499996 62.000000
+vertex 39.999996 52.499996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 33.749996 62.000000
+vertex 39.999996 27.499996 62.000000
+vertex 39.999996 27.499996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 27.499996 0.000000
+vertex 50.825314 33.749996 0.000000
+vertex 50.825314 33.749996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 27.499996 62.000000
+vertex 29.174679 33.749996 62.000000
+vertex 29.174679 33.749996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 33.749996 0.000000
+vertex 39.999996 27.499996 0.000000
+vertex 39.999996 27.499996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 46.249996 0.000000
+vertex 39.999996 52.499996 0.000000
+vertex 39.999996 52.499996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 52.499996 62.000000
+vertex 50.825314 46.249996 62.000000
+vertex 50.825314 46.249996 0.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883112 45.263626 3.000000
+vertex 39.999985 50.527252 3.000000
+vertex 39.999996 50.527252 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 50.527252 62.000000
+vertex 30.883123 45.263626 62.000000
+vertex 30.883112 45.263626 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 46.249996 62.000000
+vertex 39.999996 52.499996 62.000000
+vertex 39.999996 50.527252 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 50.527252 62.000000
+vertex 49.116867 45.263622 62.000000
+vertex 50.825314 46.249996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883125 34.736366 62.000000
+vertex 30.883123 45.263626 62.000000
+vertex 29.174679 46.249996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 29.174679 46.249996 62.000000
+vertex 29.174679 33.749996 62.000000
+vertex 30.883125 34.736366 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116867 45.263622 62.000000
+vertex 49.116867 34.736370 62.000000
+vertex 50.825314 33.749996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 50.825314 33.749996 62.000000
+vertex 50.825314 46.249996 62.000000
+vertex 49.116867 45.263622 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883123 45.263626 62.000000
+vertex 39.999996 50.527252 62.000000
+vertex 39.999996 52.499996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 52.499996 62.000000
+vertex 29.174679 46.249996 62.000000
+vertex 30.883123 45.263626 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116867 34.736370 62.000000
+vertex 39.999996 29.472740 62.000000
+vertex 39.999996 27.499996 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 27.499996 62.000000
+vertex 50.825314 33.749996 62.000000
+vertex 49.116867 34.736370 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999985 50.527252 3.000000
+vertex 30.883112 45.263626 3.000000
+vertex 49.116859 45.263622 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883112 45.263626 3.000000
+vertex 30.883114 34.736366 3.000000
+vertex 49.116859 45.263622 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883114 34.736366 3.000000
+vertex 49.116859 34.736370 3.000000
+vertex 49.116859 45.263622 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883114 34.736366 3.000000
+vertex 39.999985 29.472740 3.000000
+vertex 49.116859 34.736370 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116859 34.736370 3.000000
+vertex 39.999985 29.472740 3.000000
+vertex 39.999996 29.472740 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999996 29.472740 62.000000
+vertex 49.116867 34.736370 62.000000
+vertex 49.116859 34.736370 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999985 29.472740 3.000000
+vertex 30.883114 34.736366 3.000000
+vertex 30.883125 34.736366 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883125 34.736366 62.000000
+vertex 39.999996 29.472740 62.000000
+vertex 39.999985 29.472740 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116867 45.263622 62.000000
+vertex 39.999996 50.527252 62.000000
+vertex 39.999985 50.527252 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 39.999985 50.527252 3.000000
+vertex 49.116859 45.263622 3.000000
+vertex 49.116867 45.263622 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883114 34.736366 3.000000
+vertex 30.883112 45.263626 3.000000
+vertex 30.883123 45.263626 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 30.883123 45.263626 62.000000
+vertex 30.883125 34.736366 62.000000
+vertex 30.883114 34.736366 3.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116859 45.263622 3.000000
+vertex 49.116859 34.736370 3.000000
+vertex 49.116867 34.736370 62.000000
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 49.116867 34.736370 62.000000
+vertex 49.116867 45.263622 62.000000
+vertex 49.116859 45.263622 3.000000
+endloop
+endfacet
+endsolid Exported from Blender-2.63 (sub 13)
