@@ -1,22 +1,44 @@
-# ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction
+<div align="center">
 
-![](assets/teaser.png)
+  <h1 align="center">ARMesh: Autoregressive Mesh Generation <br> via Next-Level-of-Detail Prediction</h1>
+  
+  <div align="center" style="text-decoration: none;">
+    <a href="https://jblei.site/"><b>Jiabao Lei</b></a>
+    .
+     <a href="https://keweis23.github.io/"><b>Kewei Shi</b></a>
+    ·
+    <a href="https://lzhnb.github.io/"><b>Zhihao Liang</b></a>
+    ·
+    <a href="http://kuijia.site/"><b>Kui Jia</b></a>
+  </div>
+  
+  <h2 align="center">NIPS 2025</h2>
+  <div align="center">
+    <br>
+    <img src="assets/teaser.png">
+  </div>
+  
+  <h3 align="center">
+    In this work, we propose to serialize a mesh in the order of levels of detail (LODs) and train an autoregressive model to predict the next LOD. This is achieved by generalizing the mesh into a simplicial complex and modeling the inverse process of the mesh simplification algorithm.
+  </h3>
+  
+  <p align="center"><br>
+    <a href="https://arxiv.org/abs/2509.20824"><img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoWidth=20&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'></a>
+    <a href='https://jblei.site/proj/armesh'><img src='https://img.shields.io/badge/Project-Page-orange?style=for-the-badge&logo=Google%20chrome&logoColor=white&labelColor=D35400' alt='Project Page'></a>
+  </p>
 
-
-
-
-
+</div>
 
 
 ## Installation
 
 ### libpsc
 
-We have packaged our core functionalities into a library called [`libpsc`](https://pypi.org/project/libpsc/), which you can install quite easily:
+We have packaged our core functionalities into a library called [`libpsc`](https://pypi.org/project/libpsc/0.2/), which you can install quite easily:
 
 ```bash
 pip install trimesh # dependencies
-pip install libpsc
+pip install libpsc==0.2
 ```
 
 Supported platforms: 
@@ -158,4 +180,5 @@ If you find our work useful or use any part of our code, please consider citing 
       url={https://arxiv.org/abs/2509.20824}, 
 }
 ```
+
 
